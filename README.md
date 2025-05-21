@@ -14,9 +14,9 @@ This project is a Python script that extracts **month** and **year** information
 
 ## 📁 File Structure
 
-├── your_script.py
-├── extracted_month_year.csv
-└── README.md
+├── your_script.py \n
+├── extracted_month_year.csv \n
+└── README.md \n
 
 
 ## 🛠️ Requirements
