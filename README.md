@@ -13,11 +13,11 @@ This project is a Python script that extracts **month** and **year** information
 - Saves the output into a structured CSV file
 
 ## 📁 File Structure
-
+```
 ├── your_script.py 
 ├── extracted_month_year.csv 
 └── README.md 
-
+```
 
 ## 🛠️ Requirements
 
